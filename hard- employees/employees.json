@@ -1,0 +1,92 @@
+[
+  {
+    "employeeID": 1,
+    "name": "Trinity Lewis",
+    "salary": 155000,
+    "department": "CEO"
+  },
+  {
+    "employeeID": 2,
+    "name": "Ariana Sheppard",
+    "salary": 95000,
+    "department": "Support & Security"
+  },
+  {
+    "employeeID": 3,
+    "name": "Monique Hurley",
+    "salary": 92500,
+    "department": "Product Development"
+  },
+  {
+    "employeeID": 4,
+    "name": "Levi Oliver",
+    "salary": 93500,
+    "department": "IT Services"
+  },
+  {
+    "employeeID": 5,
+    "name": "Elsie Schultz",
+    "salary": 96000,
+    "department": "Research & Development"
+  },
+  {
+    "employeeID": 6,
+    "name": "Eleanor Mullins",
+    "salary": 91250,
+    "department": "Administration"
+  },
+  {
+    "employeeID": 7,
+    "name": "Kamryn Huynh",
+    "salary": 89500,
+    "department": "Product Development"
+  },
+  {
+    "employeeID": 8,
+    "name": "Cindy Gates",
+    "salary": 87600,
+    "department": "Product Development"
+  },
+  {
+    "employeeID": 9,
+    "name": "Amiah Nguyen",
+    "salary": 85600,
+    "department": "Research & Development"
+  },
+  {
+    "employeeID": 10,
+    "name": "Jayleen Meadows",
+    "salary": 93400,
+    "department": "IT Services"
+  },
+  {
+    "employeeID": 11,
+    "name": "Cailyn Joseph",
+    "salary": 90200,
+    "department": "Administration"
+  },
+  {
+    "employeeID": 12,
+    "name": "Stella Rios",
+    "salary": 86425,
+    "department": "Support & Security"
+  },
+  {
+    "employeeID": 13,
+    "name": "Camryn Harvey",
+    "salary": 87450,
+    "department": "Administration"
+  },
+  {
+    "employeeID": 14,
+    "name": "Autumn Nunez",
+    "salary": 93750,
+    "department": "IT Services"
+  },
+  {
+    "employeeID": 15,
+    "name": "Liliana Dunlap",
+    "salary": 93700,
+    "department": "IT Services"
+  }
+]
